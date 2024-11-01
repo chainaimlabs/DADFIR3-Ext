@@ -25,3 +25,7 @@ Follwoing is an example of a Defi Risk Wheeel.
 Source: 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607944
 Generated as an Illustration sourced from the published content
+
+jsfiddle:
+
+https://jsfiddle.net/1Lefr9dg/9/
