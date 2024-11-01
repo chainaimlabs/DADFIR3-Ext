@@ -12,13 +12,12 @@ Data Driven Standards Based Financial Reporting - Extensions
 Following is a visualization extension in d3.js / obeservable. 
 
 d3 visualizations allow for 
-
   
-  Effective visualizations of complex scientific concepts 
+    Effective visualizations of complex scientific concepts 
   
-  Laerge scale models 
+    Large scale models 
   
-  Dynamically updateable data from the underlying datasets.
+    Dynamically updateable data from the underlying datasets.
 
 Follwoing is an example of a Defi Risk Wheeel.
 
